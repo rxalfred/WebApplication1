@@ -1,0 +1,6 @@
+﻿<project outputDir="{OutputDir}" baseDir="{BaseDir}" xmlns="http://confuser.codeplex.com">
+  <rule pattern="true" preset="{Preset}" />
+  <module path="{TargetFileName}">
+    <rule pattern="true" preset="{Preset}" />
+  </module>
+</project>
